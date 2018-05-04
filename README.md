@@ -1,8 +1,8 @@
 
-HeldCoin development tree
-HeldCoin is a PoS-based cryptocurrency.
-Rpcport - 45523
-HLDC is dependent upon libsecp256k1 by sipa, the sources for which can be found here:
+#HeldCoin development tree
+#HeldCoin is a PoS-based cryptocurrency.
+#Rpcport - 45523
+#HLDC is dependent upon libsecp256k1 by sipa, the sources for which can be found here:
 https://github.com/bitcoin/secp256k1
 Install
 sudo apt-get update
