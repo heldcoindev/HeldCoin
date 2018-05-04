@@ -14,7 +14,7 @@ sudo apt-get update
 sudo apt-get upgrade 
 
 
-sudo apt-get install nano ntp unzip git build-essential libssl-dev libdb-dev libdb++-dev libboost-all-dev libqrencode-dev aptitude
+sudo apt-get install nano ntp unzip git build-essential libssl-dev libdb-dev libdb++-dev libboost-all-dev libqrencode-dev 
 aptitude install miniupnpc libminiupnpc-dev
 sudo apt-get install libgmp3-dev
 
