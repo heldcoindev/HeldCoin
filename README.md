@@ -37,17 +37,11 @@ cp heldcoind /usr/local/bin
 heldcoind -daemon
 -----------------
 rpcuser=rpc_heldcoinu
-
 rpcpassword=password
-
 rpcallowip=127.0.0.1
-
 listen=1
-
 server=1
-
 txindex=1
-
 daemon=1
 
 heldcoind stop
